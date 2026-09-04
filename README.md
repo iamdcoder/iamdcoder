@@ -103,8 +103,7 @@ Always learning. Always curious. 🚀
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,cpp,js,java,react,html,css,git,vscode" alt="Tech stack icons" />
-
-<br><br>
+<br>
 
 <sub><b>Languages:</b> Python · C++ · JavaScript · Java &nbsp;|&nbsp; <b>Dev:</b> React · HTML/CSS · Git · VS Code</sub>
 
@@ -166,9 +165,8 @@ Always learning. Always curious. 🚀
 
 <div align="center">
 
-<br><br>
-
 <img src="https://ghchart.rshah.org/iamdcoder" alt="GitHub contribution graph" />
+<br>
 
 </div>
 
