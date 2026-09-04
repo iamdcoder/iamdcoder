@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="260"
+     viewBox="0 0 900 260">
+
+<rect width="900" height="260" rx="12" fill="#050a10"/>
+<rect x="2" y="2" width="896" height="256" rx="12"
+      fill="none" stroke="#294450" stroke-width="2"/>
+
+<text x="35" y="48"
+      fill="#7cf2bd"
+      font-family="monospace"
+      font-size="18">
+&gt; PROJECT_01
+</text>
+
+<text x="35" y="92"
+      fill="#ffffff"
+      font-family="monospace"
+      font-size="27">
+REACTOR YIELD PREDICTION
+</text>
+
+<text x="35" y="130"
+      fill="#9db0bd"
+      font-family="monospace"
+      font-size="16">
+Machine learning model for reactor yield
+</text>
+
+<text x="35" y="155"
+      fill="#9db0bd"
+      font-family="monospace"
+      font-size="16">
+prediction from process parameters.
+</text>
+
+<text x="35" y="205"
+      fill="#8fc7ff"
+      font-family="monospace"
+      font-size="15">
+Python  ·  Machine Learning  ·  Data Analysis
+</text>
+
+<text x="760" y="215"
+      fill="#7cf2bd"
+      font-family="monospace"
+      font-size="15">
+[ OPEN ]
+</text>
+
+</svg>

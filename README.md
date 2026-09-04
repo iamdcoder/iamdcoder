@@ -66,71 +66,27 @@ Data / Problem Solving
 ```
 ---
 
-## `$ ./projects`
+## `$ ls ./projects`
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%">
-
-<h3>Reactor Yield Prediction</h3>
-
-<p>
-Machine learning project for predicting reactor yield from process parameters.
-</p>
-
-<p>
-<code>Python</code>
-&nbsp;
-<code>Machine Learning</code>
-&nbsp;
-<code>Data Analysis</code>
-</p>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REACTOR_REPO">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3>KineBurn</h3>
-
-<p>
-A physics chemistry based surrogate to predict te yield of a product in a plug flow reactor
-</p>
-
-<p>
-<code>Development</code>
-&nbsp;
-<code>UI</code>
-&nbsp;
-<code>Data</code>
-</p>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_KINEBURN_REPO">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
+<a href="https://github.com/iamdcoder/Hackathon-Recommender">
 <img
-  src="./assets/system_dashboard.svg"
-  width="100%"
-  alt="Devansh system dashboard"
+src="./assets/projects/hackathon.svg"
+width="100%"
+alt="Hackathon Recommender System"
 />
+</a>
+
+<br><br>
+
+<a href="https://github.com/iamdcoder/KineBurn---The-Yield-Predictor">
+<img
+src="./assets/projects/kineburn.svg"
+width="100%"
+alt="KineBurn project"
+/>
+</a>
 
 </div>
 
