@@ -12,11 +12,6 @@
 
 <br>
 
-<table>
-<tr>
-
-<td width="55%" valign="middle">
-
 <pre>
 devansh@github:~$ ./initialize_profile
 
@@ -34,16 +29,25 @@ profile status: ONLINE
 devansh@github:~$ _
 </pre>
 
+<br>
+
 <img src="./assets/name_banner.svg" width="100%" alt="Devansh Arvind Tripathi">
 
-<p><i>"Better questions, better answers — a slightly sharper version of me every commit."</i></p>
-<p><sub>✏️ swap this line for your own tagline</sub></p>
+<br><br>
+
+<table>
+<tr>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/portrait_glitch.gif" width="380" alt="Pixel glitch portrait">
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+<td width="65%" valign="middle">
 
-<img src="./assets/portrait_glitch.gif" width="520" alt="Pixel glitch portrait">
+<p><i>"Better questions, better answers — a slightly sharper version of me every commit."</i></p>
+<p><sub>✏️ swap this line for your own tagline</sub></p>
 
 </td>
 
