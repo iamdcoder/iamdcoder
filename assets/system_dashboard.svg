@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="360"
+     viewBox="0 0 1000 360">
+
+  <rect width="1000" height="360" fill="#05080d"/>
+
+  <rect x="20" y="20"
+        width="960"
+        height="320"
+        rx="12"
+        fill="#070d14"
+        stroke="#294450"
+        stroke-width="2"/>
+
+  <!-- Terminal buttons -->
+  <circle cx="48" cy="48" r="6" fill="#7cf2bd"/>
+  <circle cx="70" cy="48" r="6" fill="#8fc7ff"/>
+  <circle cx="92" cy="48" r="6" fill="#6b7480"/>
+
+  <!-- Header -->
+  <text x="120"
+        y="54"
+        fill="#91a9b8"
+        font-family="monospace"
+        font-size="18">
+    devansh@github:~$
+  </text>
+
+  <text x="35"
+        y="100"
+        fill="#7cf2bd"
+        font-family="monospace"
+        font-size="20">
+    &gt; SYSTEM STATUS
+  </text>
+
+  <!-- Left panel -->
+  <rect x="35" y="125"
+        width="430"
+        height="175"
+        rx="8"
+        fill="#050a10"
+        stroke="#203641"/>
+
+  <text x="55"
+        y="157"
+        fill="#b8c8d8"
+        font-family="monospace"
+        font-size="17">
+    identity
+  </text>
+
+  <text x="250"
+        y="157"
+        fill="#7cf2bd"
+        font-family="monospace"
+        font-size="17">
+    DEVANSH
+  </text>
+
+  <text x="55"
+        y="192"
+        fill="#b8c8d8"
+        font-family="monospace"
+        font-size="17">
+    role
+  </text>
+
+  <text x="250"
+        y="192"
+        fill="#8fc7ff"
+        font-family="monospace"
+        font-size="17">
+    DEVELOPER
+  </text>
+
+  <text x="55"
+        y="227"
+        fill="#b8c8d8"
+        font-family="monospace"
+        font-size="17">
+    focus
+  </text>
+
+  <text x="250"
+        y="227"
+        fill="#8fc7ff"
+        font-family="monospace"
+        font-size="17">
+    ML / DEV
+  </text>
+
+  <text x="55"
+        y="262"
+        fill="#b8c8d8"
+        font-family="monospace"
+        font-size="17">
+    status
+  </text>
+
+  <text x="250"
+        y="262"
+        fill="#7cf2bd"
+        font-family="monospace"
+        font-size="17">
+    ONLINE
+  </text>
+
+  <text x="55"
+        y="290"
+        fill="#4f6470"
+        font-family="monospace"
+        font-size="13">
+    uptime: ∞
+  </text>
+
+  <!-- Right panel -->
+  <rect x="490" y="125"
+        width="475"
+        height="175"
+        rx="8"
+        fill="#050a10"
+        stroke="#203641"/>
+
+  <text x="515"
+        y="157"
+        fill="#7cf2bd"
+        font-family="monospace"
+        font-size="17">
+    modules_loaded
+  </text>
+
+  <text x="515"
+        y="190"
+        fill="#b8c8d8"
+        font-family="monospace"
+        font-size="16">
+    python
+  </text>
+
+  <text x="730"
+        y="190"
+        fill="#7cf2bd"
+        font-family="monospace"
+        font-size="16">
+    [██████████]
+  </text>
+
+  <text x="515"
+        y="220"
+        fill="#b8c8d8"
+        font-family="monospace"
+        font-size="16">
+    c++
+  </text>
+
+  <text x="730"
+        y="220"
+        fill="#7cf2bd"
+        font-family="monospace"
+        font-size="16">
+    [████████░░]
+  </text>
+
+  <text x="515"
+        y="250"
+        fill="#b8c8d8"
+        font-family="monospace"
+        font-size="16">
+    javascript
+  </text>
+
+  <text x="730"
+        y="250"
+        fill="#7cf2bd"
+        font-family="monospace"
+        font-size="16">
+    [███████░░░]
+  </text>
+
+  <text x="515"
+        y="280"
+        fill="#b8c8d8"
+        font-family="monospace"
+        font-size="16">
+    machine_learning
+  </text>
+
+  <text x="730"
+        y="280"
+        fill="#7cf2bd"
+        font-family="monospace"
+        font-size="16">
+    [████████░░]
+  </text>
+
+</svg>

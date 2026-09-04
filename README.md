@@ -100,7 +100,7 @@ View Repository →
 <h3>KineBurn</h3>
 
 <p>
-A fitness-focused project built around workouts, activity and calorie tracking.
+A physics chemistry based surrogate to predict te yield of a product in a plug flow reactor
 </p>
 
 <p>
@@ -119,6 +119,18 @@ View Repository →
 
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img
+  src="./assets/system_dashboard.svg"
+  width="100%"
+  alt="Devansh system dashboard"
+/>
 
 </div>
 
