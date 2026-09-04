@@ -135,7 +135,7 @@ Always learning. Always curious. 🚀
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="60%" valign="top" align="center">
 
 <pre>PROJECT_02</pre>
 
