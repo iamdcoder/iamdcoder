@@ -3,11 +3,11 @@
 <img src="./assets/terminal_header.svg" width="100%" alt="Terminal profile header">
 
 <p align="center">
-<a href="#about">About</a> •
-<a href="#projects">Projects</a> •
-<a href="#skills">Skills</a> •
-<a href="#stats">Stats</a> •
-<a href="#contact">Contact</a>
+<a href="#about"><img src="https://img.shields.io/badge/-About-00b8d9?style=flat-square" alt="About"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/-Projects-ff2079?style=flat-square" alt="Projects"/></a>
+<a href="#skills"><img src="https://img.shields.io/badge/-Skills-7c3aed?style=flat-square" alt="Skills"/></a>
+<a href="#stats"><img src="https://img.shields.io/badge/-Stats-39d98a?style=flat-square" alt="Stats"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/-Contact-00b8d9?style=flat-square" alt="Contact"/></a>
 </p>
 
 <br>
@@ -34,27 +34,16 @@ profile status: ONLINE
 devansh@github:~$ _
 </pre>
 
-<h1>DEVANSH ARVIND TRIPATHI</h1>
+<img src="./assets/name_banner.svg" width="100%" alt="Devansh Arvind Tripathi">
 
-<p>
-<code>STUDENT</code> &nbsp;
-<code>DEVELOPER</code> &nbsp;
-<code>PROBLEM SOLVER</code>
-</p>
-
-<p>
-<code>LEARNER</code> &nbsp;
-<code>MUSIC ENTHUSIAST</code> &nbsp;
-<code>ALWAYS CURIOUS</code>
-</p>
-
-<p><i>"Better questions. Better problems.<br>A slightly better version of me, everyday."</i></p>
+<p><i>"Better questions, better answers — a slightly sharper version of me every commit."</i></p>
+<p><sub>✏️ swap this line for your own tagline</sub></p>
 
 </td>
 
 <td width="45%" align="center" valign="middle">
 
-<img src="./assets/portrait_glitch.gif" width="420" alt="Pixel glitch portrait">
+<img src="./assets/portrait_glitch.gif" width="520" alt="Pixel glitch portrait">
 
 </td>
 
@@ -63,10 +52,9 @@ devansh@github:~$ _
 
 </div>
 
----
+<img src="./assets/dividers/neon_divider.svg" width="100%" alt="">
 
 <a id="about"></a>
-
 ## `$ whoami`
 
 <div align="center">
@@ -78,22 +66,11 @@ devansh@github:~$ _
 
 <pre>&gt; about_me()</pre>
 
-<p>
-I'm a student who enjoys building things, exploring new ideas,
-and figuring out how stuff works.
-</p>
+I'm a student who enjoys building things, exploring new ideas, and figuring out how stuff works. I'm interested in **Machine Learning**, **Web Development**, and solving real-world problems through code.
 
-<p>
-I'm interested in <b>Machine Learning</b>, <b>Web Development</b>,
-and solving real-world problems through code.
-</p>
+When I'm not on my laptop, you'll probably find me chasing a new idea down some rabbit hole.
 
-<p>
-When I'm not coding, you'll probably find me listening to music,
-exploring a new idea, or going down a random rabbit hole.
-</p>
-
-<p><b>Always learning. Always curious.</b></p>
+Always learning. Always curious. 🚀
 
 </td>
 
@@ -101,24 +78,10 @@ exploring a new idea, or going down a random rabbit hole.
 
 <pre>&gt; quick_stats()</pre>
 
-<pre>
-ROLE
-
-student
-
-FOCUS
-
-machine learning
-development
-
-STATUS
-
-building
-
-MINDSET
-
-always curious
-</pre>
+🎓&nbsp; Student  
+`</>` &nbsp;Multiple Projects  
+📊&nbsp; Focused on ML & Development  
+📖&nbsp; Learning Something New Everyday  
 
 <img src="./assets/system_info.gif" width="100%" alt="Animated terminal system information">
 
@@ -128,18 +91,12 @@ always curious
 
 <pre>&gt; currently()</pre>
 
-<pre>
-● learning and building
-● exploring opportunities
-● working on new projects
-● improving my skills
-● staying curious
-</pre>
+🟢&nbsp; Learning and building cool things  
+🟢&nbsp; Exploring new opportunities  
+🟢&nbsp; Open to collaborations  
+🟢&nbsp; Trying to be a little better every day  
 
-<blockquote>
-Same person.<br>
-A little more progress each day.
-</blockquote>
+> _Same person. A little more progress each day._
 
 </td>
 
@@ -148,67 +105,24 @@ A little more progress each day.
 
 </div>
 
----
+<img src="./assets/dividers/neon_divider.svg" width="100%" alt="">
 
 <a id="skills"></a>
-
 ## `$ cat tech_stack.txt`
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=py,cpp,js,java,react,html,css,git,vscode" alt="Tech stack icons" />
 
-<pre>
-LANGUAGES
---------------------------------
+<br><br>
 
-Python        ████████████████████
-C++           ███████████████
-JavaScript    ████████████
-Java          ██████████
-</pre>
+<sub><b>Languages:</b> Python · C++ · JavaScript · Java &nbsp;|&nbsp; <b>Dev:</b> React · HTML/CSS · Git · VS Code</sub>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
-
-<pre>
-DEVELOPMENT
---------------------------------
-
-React         ████████████
-HTML / CSS    █████████████
-Git           ████████████████
-</pre>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-<pre>
-INTERESTS
---------------------------------
-
-Machine Learning
-Data Analysis
-Problem Solving
-Web Development
-</pre>
-
-</td>
-
-</tr>
-</table>
-
----
+<img src="./assets/dividers/neon_divider.svg" width="100%" alt="">
 
 <a id="projects"></a>
-
 ## `$ ls ./projects`
 
 <div align="center">
@@ -216,42 +130,57 @@ Web Development
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<pre>PROJECT_01</pre>
 
 <a href="https://github.com/iamdcoder/Hackathon-Recommender">
 <img src="./assets/projects/hackathon.svg" width="100%" alt="Hackathon Recommender System">
 </a>
 
+<br>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Recommender System](https://img.shields.io/badge/-Recommender%20System-ff2079?style=flat-square)
+
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<pre>PROJECT_02</pre>
 
 <a href="https://github.com/iamdcoder/KineBurn---The-Yield-Predictor">
 <img src="./assets/projects/kineburn.svg" width="100%" alt="KineBurn - The Yield Predictor">
 </a>
+
+<br>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Physics-Informed ML](https://img.shields.io/badge/-Physics--Informed%20ML-7c3aed?style=flat-square)
+
+<sub>🏆 3rd / 385 teams — IIT Kharagpur ChemE Hackathon</sub>
 
 </td>
 
 </tr>
 </table>
 
-<p>
 <sub>More projects on <a href="https://github.com/iamdcoder?tab=repositories">→ view all repositories</a></sub>
-</p>
 
 </div>
 
----
+<img src="./assets/dividers/neon_divider.svg" width="100%" alt="">
 
 <a id="stats"></a>
-
 ## `$ git log --graph` <sub><i># contributions</i></sub>
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/iamdcoder"
-     width="95%"
-     alt="GitHub contribution graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdcoder&theme=github-dark&hide_border=true" width="95%" alt="GitHub activity graph" />
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/iamdcoder" alt="GitHub contribution graph" />
 
 </div>
 
@@ -265,9 +194,7 @@ Web Development
 05  repeating
 ```
 
----
-
-## `$ ./terminal`
+### `$ ./terminal`
 
 <div align="center">
 
@@ -290,49 +217,44 @@ devansh@github:~$ _
 
 </div>
 
----
+<img src="./assets/dividers/neon_divider.svg" width="100%" alt="">
 
 <a id="contact"></a>
-
 ## `$ ./contact`
 
 <div align="center">
 
-<pre>
-devansh@github:~$ connect
+<table>
+<tr>
 
-GITHUB
-github.com/iamdcoder
+<td align="center" width="33%">
 
-STATUS
-ONLINE
+📫 <b>Email</b><br>
+<sub>your.email@example.com</sub>
 
-AVAILABILITY
-open to interesting projects
+</td>
 
-devansh@github:~$ _
-</pre>
+<td align="center" width="33%">
+
+💼 <b>LinkedIn</b><br>
+<sub>linkedin.com/in/your-handle</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+🐙 <b>GitHub</b><br>
+<sub><a href="https://github.com/iamdcoder">github.com/iamdcoder</a></sub>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
----
-
 <div align="center">
 
-<pre>
---------------------------------------------
-
-$ exit
-
-thanks for visiting.
-
-let's build something amazing.
-
-still building...
-
-_
-
---------------------------------------------
-</pre>
+<img src="./assets/footer_cyberpunk.svg" width="100%" alt="Session closed — thanks for visiting">
 
 </div>
