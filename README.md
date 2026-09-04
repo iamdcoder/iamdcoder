@@ -53,54 +53,114 @@ devansh@github:~$ _
 
 ---
 
+<div align="center">
+
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### `$ whoami`
+<pre>
+$ whoami
 
-```text
 Devansh Arvind Tripathi
+-----------------------
 
+ROLE
 student / developer
 
-interested in:
-  ├─ machine learning
-  ├─ web development
-  └─ problem solving
-```
+INTERESTS
+├─ machine learning
+├─ web development
+├─ problem solving
+└─ building things
+
+STATUS
+online / learning
+</pre>
 
 </td>
-<td width="50%" valign="top">
 
-### `$ system.info`
+<td width="50%" valign="top" align="center">
+
+<pre>
+$ system.info
+
+SYSTEM
+-----------------------
+
+OS        human.exe
+STATUS    ONLINE
+MODE      BUILDING
+FOCUS     LEARNING
+
+UPTIME
+████████████████████ 100%
+</pre>
 
 <img src="./assets/system_info.gif" width="100%" alt="Animated terminal system information">
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## `$ cat tech_stack.txt`
 
-```text
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<pre>
 LANGUAGES
+--------------------------------
+
 Python        ████████████████████
 C++           ███████████████
 JavaScript    ████████████
 Java          ██████████
+</pre>
 
+</td>
+
+<td width="50%" valign="top">
+
+<pre>
 DEVELOPMENT
-React         ████████████
-HTML/CSS      █████████████
-Git           ████████████████
+--------------------------------
 
+React         ████████████
+HTML / CSS    █████████████
+Git           ████████████████
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<pre>
 INTERESTS
+--------------------------------
+
 Machine Learning
 Data / Problem Solving
-```
+Web Development
+</pre>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
