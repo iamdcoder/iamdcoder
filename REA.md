@@ -35,10 +35,24 @@ devansh@github:~$ _
 
 <br><br>
 
-<img src="portrait.png" width="700" alt="Pixel glitch portrait">
+<table>
+<tr>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/portrait_glitch.gif" width="380" alt="Pixel glitch portrait">
+
+</td>
+
+<td width="65%" valign="middle">
 
 <p><i>"Better questions, better answers — a slightly sharper version of me every commit."</i></p>
-<p><sub>Working hard for a better future</sub></p>
+<p><sub>✏️ swap this line for your own tagline</sub></p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -73,7 +87,7 @@ Always learning. Always curious. 🚀
 📊&nbsp; Focused on ML & Development  
 📖&nbsp; Learning Something New Everyday  
 
-<img src="./assets/system_info.gif" width="100%" height="150px" alt="Animated terminal system information">
+<img src="./assets/system_info.gif" width="100%" alt="Animated terminal system information">
 
 </td>
 
@@ -86,7 +100,7 @@ Always learning. Always curious. 🚀
 🟢&nbsp; Open to collaborations  
 🟢&nbsp; Trying to be a little better every day  
 
-> _Same person. Same habit. A little more progress each day._
+> _Same person. A little more progress each day._
 
 </td>
 
@@ -103,7 +117,8 @@ Always learning. Always curious. 🚀
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,cpp,js,java,react,html,css,git,vscode" alt="Tech stack icons" />
-<br>
+
+<br><br>
 
 <sub><b>Languages:</b> Python · C++ · JavaScript · Java &nbsp;|&nbsp; <b>Dev:</b> React · HTML/CSS · Git · VS Code</sub>
 
@@ -124,7 +139,7 @@ Always learning. Always curious. 🚀
 <pre>PROJECT_01</pre>
 
 <a href="https://github.com/iamdcoder/Hackathon-Recommender">
-<img src="./assets/projects/hackathon.svg" height="400px" width="100%" alt="Hackathon Recommender System">
+<img src="./assets/projects/hackathon.svg" width="100%" alt="Hackathon Recommender System">
 </a>
 
 <br>
@@ -134,7 +149,7 @@ Always learning. Always curious. 🚀
 
 </td>
 
-<td width="60%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 <pre>PROJECT_02</pre>
 
@@ -165,8 +180,11 @@ Always learning. Always curious. 🚀
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdcoder&theme=github-dark&hide_border=true" width="95%" alt="GitHub activity graph" />
+
+<br><br>
+
 <img src="https://ghchart.rshah.org/iamdcoder" alt="GitHub contribution graph" />
-<br>
 
 </div>
 
@@ -216,7 +234,7 @@ devansh@github:~$ _
 <td align="center" width="33%">
 
 📫 <b>Email</b><br>
-<sub>devansh.a.tripathi@gmail.com</sub>
+<sub>your.email@example.com</sub>
 
 </td>
 
