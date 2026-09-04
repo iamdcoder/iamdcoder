@@ -38,7 +38,7 @@ devansh@github:~$ _
 <img src="./assets/por2.jpg" width="900" alt="Pixel glitch portrait">
 
 <p><i>"Better questions, better answers — a slightly sharper version of me every commit."</i></p>
-<p><sub>Working hard for a better future</sub></p>
+<p><sub><i>"Working hard for a better future."</i></sub></p>
 
 </div>
 
@@ -58,9 +58,9 @@ devansh@github:~$ _
 
 I'm a student who enjoys building things, exploring new ideas, and figuring out how stuff works. I'm interested in **Machine Learning**, **Web Development**, and solving real-world problems through code.
 
-When I'm not on my laptop, you'll probably find me chasing a new idea down some rabbit hole.
+When I'm not on my laptop, you'll probably find me chasing a new idea.
 
-Always learning. Always curious. 🚀
+Always learning. Always curious. 
 
 </td>
 
