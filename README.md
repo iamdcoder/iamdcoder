@@ -168,15 +168,35 @@ Web Development
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<pre>
+PROJECT_01
+</pre>
+
 <a href="https://github.com/iamdcoder/Hackathon-Recommender">
-  <img src="./assets/projects/hackathon.svg" width="100%" alt="Hackathon Recommender System" />
+<img src="./assets/projects/hackathon.svg" width="100%" alt="Hackathon Recommender System">
 </a>
 
-<br><br>
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<pre>
+PROJECT_02
+</pre>
 
 <a href="https://github.com/iamdcoder/KineBurn---The-Yield-Predictor">
-  <img src="./assets/projects/kineburn.svg" width="100%" alt="KineBurn - The Yield Predictor" />
+<img src="./assets/projects/kineburn.svg" width="100%" alt="KineBurn - The Yield Predictor">
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -204,35 +224,79 @@ Web Development
 
 ## `$ ./terminal`
 
-```text
+<div align="center">
+
+<pre>
 devansh@github:~$ help
 
-available commands
-  whoami    →  display profile
-  projects  →  list projects
-  stack     →  show technologies
-  activity  →  show GitHub activity
-  contact   →  establish connection
+AVAILABLE COMMANDS
+────────────────────────────────────────────
+
+whoami       →  display profile
+projects     →  list projects
+stack        →  show technologies
+activity     →  show GitHub activity
+contact      →  establish connection
+
+────────────────────────────────────────────
 
 devansh@github:~$ _
-```
+</pre>
+
+</div>
+
+### `$ git log --oneline`
 
 ```text
-$ git log --oneline
-
 01  building new things
 02  learning something new
 03  breaking something
 04  fixing it
 05  repeating
 ```
+</pre>
+
+</div>
+
+---
+
+## `$ ./contact`
 
 <div align="center">
 
-```text
-$ exit
+<pre>
+devansh@github:~$ connect
 
-still building...
-```
+GITHUB
+github.com/iamdcoder
+
+STATUS
+ONLINE
+
+MODE
+open to interesting projects
+
+devansh@github:~$ _
+</pre>
 
 </div>
+
+---
+
+<div align="center">
+
+<pre>
+--------------------------------------------
+
+$ exit
+
+thanks for visiting.
+
+still building...
+
+_
+
+--------------------------------------------
+</pre>
+
+</div>continu
