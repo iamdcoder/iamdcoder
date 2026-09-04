@@ -223,7 +223,7 @@ devansh@github:~$ _
 <td align="center" width="33%">
 
 💼 <b>LinkedIn</b><br>
-<sub>linkedin.com/in/your-handle</sub>
+<sub>https://www.linkedin.com/in/devansh-arvind-tripathi-072419303/</sub>
 
 </td>
 
