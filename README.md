@@ -1,137 +1,107 @@
-::: {align="center"}
-`<img src="./assets/terminal_header.svg" width="100%" alt="Terminal header">`{=html}
+<div align="center">
 
-`<br>`{=html}`<br>`{=html}
+<img src="./assets/terminal_header.svg" width="100%" alt="Terminal header">
 
-```{=html}
+<br><br>
+
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td width="48%" valign="top">
-```
-``` text
-> devansh@github:~$ ./initialize_profile
+
+<pre>
+&gt; devansh@github:~$ ./initialize_profile
 
 identity loaded
 profile status: ONLINE
 
-> Welcome to my GitHub!
+&gt; Welcome to my GitHub!
 
 [✓] initializing profile
 [✓] loading identity
 [✓] rendering pixels
 [✓] almost there
 [✓] done
-```
+</pre>
 
-```{=html}
-<h1>
-```
-DEVANSH ARVIND TRIPATHI
-```{=html}
-</h1>
-```
-```{=html}
+<h1>DEVANSH ARVIND TRIPATHI</h1>
+
 <p>
-```
-`<code>`{=html}STUDENT`</code>`{=html}  
-`<code>`{=html}DEVELOPER`</code>`{=html}   `<code>`{=html}PROBLEM
-SOLVER`</code>`{=html}
-```{=html}
+<code>STUDENT</code> &nbsp;
+<code>DEVELOPER</code> &nbsp;
+<code>PROBLEM SOLVER</code>
 </p>
-```
-```{=html}
+
 <p>
-```
-`<code>`{=html}LEARNER`</code>`{=html}   `<code>`{=html}MUSIC
-ENTHUSIAST`</code>`{=html}   `<code>`{=html}ALWAYS
-CURIOUS`</code>`{=html}
-```{=html}
+<code>LEARNER</code> &nbsp;
+<code>MUSIC ENTHUSIAST</code> &nbsp;
+<code>ALWAYS CURIOUS</code>
 </p>
-```
-```{=html}
+
 <blockquote>
-```
-Better questions. Better problems.`<br>`{=html} A slightly better
-version of me, everyday.
-```{=html}
+Better questions. Better problems.<br>
+A slightly better version of me, everyday.
 </blockquote>
-```
-```{=html}
+
 <p>
-```
-`<a href="https://github.com/iamdcoder">`{=html}GitHub`</a>`{=html}
-  \|   `<a href="#projects">`{=html}Projects`</a>`{=html}   \|  
-`<a href="#contact">`{=html}Contact`</a>`{=html}
-```{=html}
+<a href="https://github.com/iamdcoder">GitHub</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#projects">Projects</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#contact">Contact</a>
 </p>
-```
-```{=html}
+
 </td>
-```
-```{=html}
+
 <td width="52%" align="center" valign="middle">
-```
-`<img src="./assets/portrait_glitch.gif" width="520" alt="Pixel glitch portrait">`{=html}
 
-```{=html}
+<img src="./assets/portrait_glitch.gif" width="520" alt="Pixel glitch portrait">
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
-:::
 
-------------------------------------------------------------------------
+</div>
 
-`<a name="about">`{=html}`</a>`{=html}
+---
 
-## `$ ./about_me`
+<a name="about"></a>
 
-```{=html}
+## <code>$ ./about_me</code>
+
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td width="50%" valign="top">
-```
-### `> about_me()`
 
-I'm a student who enjoys building things, exploring new ideas and
-figuring out how stuff works.
+### <code>&gt; about_me()</code>
 
-I'm interested in:
+<p>
+I'm a student who enjoys building things, exploring new ideas and figuring out how stuff works.
+</p>
 
-``` text
+<p><strong>I'm interested in:</strong></p>
+
+<pre>
 machine learning
 web development
 problem solving
 data
 building useful things
-```
+</pre>
 
+<p>
 When I'm not coding, you'll probably find me listening to music,
 exploring good food or having random deep conversations.
+</p>
 
-**Always learning. Always curious.**
+<p><strong>Always learning. Always curious.</strong></p>
 
-```{=html}
 </td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-### `> currently()`
 
-``` text
+<td width="50%" valign="top">
+
+### <code>&gt; currently()</code>
+
+<pre>
 STATUS
 
 ● learning and building cool things
@@ -139,170 +109,122 @@ STATUS
 ● working on new projects
 ● improving my development skills
 ● trying to be a little better everyday
-```
+</pre>
 
-``` text
+<pre>
 CURRENT MODE
 
 learning...
 building...
 experimenting...
 repeat.
-```
+</pre>
 
-```{=html}
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+---
 
-## `$ ./quick_stats`
+## <code>$ ./quick_stats</code>
 
-```{=html}
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td align="center" width="25%">
-```
-``` text
+<pre>
 ROLE
 
 STUDENT
-```
-
-```{=html}
+</pre>
 </td>
-```
-```{=html}
+
 <td align="center" width="25%">
-```
-``` text
+<pre>
 FOCUS
 
 ML
 DEVELOPMENT
-```
-
-```{=html}
+</pre>
 </td>
-```
-```{=html}
+
 <td align="center" width="25%">
-```
-``` text
+<pre>
 PROJECTS
 
 BUILDING
-```
-
-```{=html}
+</pre>
 </td>
-```
-```{=html}
+
 <td align="center" width="25%">
-```
-``` text
+<pre>
 MINDSET
 
 ALWAYS
 CURIOUS
-```
-
-```{=html}
+</pre>
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+---
 
-## `$ cat tech_stack.txt`
+## <code>$ cat tech_stack.txt</code>
 
-```{=html}
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td width="50%" valign="top">
-```
+
 ### LANGUAGES
 
-``` text
+<pre>
 Python          ████████████████████
 C++             ███████████████
 JavaScript      ████████████
 Java            ██████████
-```
+</pre>
 
-```{=html}
 </td>
-```
-```{=html}
+
 <td width="50%" valign="top">
-```
+
 ### DEVELOPMENT
 
-``` text
+<pre>
 React           ████████████
 HTML / CSS      █████████████
 Git             ████████████████
-```
+</pre>
 
-```{=html}
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
 <td colspan="2">
-```
+
 ### INTERESTS
 
-``` text
+<pre>
 Machine Learning
 Data Analysis
 Problem Solving
 Web Development
-```
+</pre>
 
-```{=html}
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+---
 
-## `$ git log --graph`
+## <code>$ git log --graph</code>
 
-::: {align="center"}
-`<img src="https://ghchart.rshah.org/iamdcoder" width="95%" alt="GitHub contribution graph">`{=html}
-:::
+<div align="center">
 
-``` text
+<img src="https://ghchart.rshah.org/iamdcoder" width="95%" alt="GitHub contribution graph">
+
+</div>
+
+<pre>
 $ git log --oneline
 
 01  building new things
@@ -310,76 +232,61 @@ $ git log --oneline
 03  breaking something
 04  fixing it
 05  repeating
-```
+</pre>
 
-------------------------------------------------------------------------
+---
 
-`<a name="projects">`{=html}`</a>`{=html}
+<a name="projects"></a>
 
-## `$ ls ./projects`
+## <code>$ ls ./projects</code>
 
-```{=html}
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<a href="https://github.com/iamdcoder/Hackathon-Recommender">`{=html}
 
-`<img src="./assets/projects/hackathon.svg" width="100%" alt="Hackathon Recommender">`{=html}
+<td width="50%" valign="top" align="center">
 
-`</a>`{=html}
+<a href="https://github.com/iamdcoder/Hackathon-Recommender">
+<img src="./assets/projects/hackathon.svg" width="100%" alt="Hackathon Recommender">
+</a>
 
-```{=html}
 </td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<a href="https://github.com/iamdcoder/KineBurn---The-Yield-Predictor">`{=html}
 
-`<img src="./assets/projects/kineburn.svg" width="100%" alt="KineBurn">`{=html}
+<td width="50%" valign="top" align="center">
 
-`</a>`{=html}
+<a href="https://github.com/iamdcoder/KineBurn---The-Yield-Predictor">
+<img src="./assets/projects/kineburn.svg" width="100%" alt="KineBurn">
+</a>
 
-```{=html}
 </td>
-```
-```{=html}
+
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+---
 
-`<a name="contact">`{=html}`</a>`{=html}
+<a name="contact"></a>
 
-## `$ ./contact`
+## <code>$ ./contact</code>
 
-``` text
+<pre>
 devansh@github:~$ connect
 
 github       → github.com/iamdcoder
 status       → online
 availability → open to interesting projects
-```
+</pre>
 
-::: {align="center"}
-`<a href="https://github.com/iamdcoder">`{=html}\[ GitHub Profile
-\]`</a>`{=html}
-:::
+<div align="center">
+<a href="https://github.com/iamdcoder"><code>[ GitHub Profile ]</code></a>
+</div>
 
-------------------------------------------------------------------------
+---
 
-## `$ exit`
+## <code>$ exit</code>
 
-::: {align="center"}
-``` text
+<div align="center">
+
+<pre>
 --------------------------------------------
 
 thanks for visiting.
@@ -391,5 +298,6 @@ let's build something amazing.
 still building...
 
 _
-```
-:::
+</pre>
+
+</div>
