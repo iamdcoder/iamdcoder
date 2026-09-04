@@ -166,8 +166,6 @@ Always learning. Always curious. 🚀
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdcoder&theme=github-dark&hide_border=true" width="95%" alt="GitHub activity graph" />
-
 <br><br>
 
 <img src="https://ghchart.rshah.org/iamdcoder" alt="GitHub contribution graph" />
