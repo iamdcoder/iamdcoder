@@ -64,6 +64,7 @@ INTERESTS
 Machine Learning
 Data / Problem Solving
 ```
+
 ---
 
 ## `$ ls ./projects`
@@ -71,21 +72,13 @@ Data / Problem Solving
 <div align="center">
 
 <a href="https://github.com/iamdcoder/Hackathon-Recommender">
-<img
-src="./assets/projects/hackathon.svg"
-width="100%"
-alt="Hackathon Recommender System"
-/>
+  <img src="./assets/projects/hackathon.svg" width="100%" alt="Hackathon Recommender System" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/iamdcoder/KineBurn---The-Yield-Predictor">
-<img
-src="./assets/projects/kineburn.svg"
-width="100%"
-alt="KineBurn project"
-/>
+  <img src="./assets/projects/kineburn.svg" width="100%" alt="KineBurn - The Yield Predictor" />
 </a>
 
 </div>
@@ -96,11 +89,7 @@ alt="KineBurn project"
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=iamdcoder&theme=github-dark&hide_border=true"
-width="95%"
-alt="GitHub activity graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdcoder&theme=github-dark&hide_border=true" width="95%" alt="GitHub activity graph" />
 
 </div>
 
@@ -110,28 +99,30 @@ alt="GitHub activity graph"
 
 <div align="center">
 
-<img
-src="https://ghchart.rshah.org/iamdcoder"
-alt="GitHub contribution graph"
-/>
+<img src="https://ghchart.rshah.org/iamdcoder" alt="GitHub contribution graph" />
 
 </div>
 
-
 ---
 
-## `$ ls ./projects`
-
-| Project | Description |
-|---|---|
-| **Reactor Yield Prediction** | Machine-learning project for predicting reactor yield from process parameters. |
-| **KineBurn** | Fitness-focused project centered around workouts and calorie tracking. |
-
----
-
-## `$ git log --oneline`
+## `$ ./terminal`
 
 ```text
+devansh@github:~$ help
+
+available commands
+  whoami    →  display profile
+  projects  →  list projects
+  stack     →  show technologies
+  activity  →  show GitHub activity
+  contact   →  establish connection
+
+devansh@github:~$ _
+```
+
+```text
+$ git log --oneline
+
 01  building new things
 02  learning something new
 03  breaking something
@@ -139,12 +130,12 @@ alt="GitHub contribution graph"
 05  repeating
 ```
 
----
-
 <div align="center">
 
-### `$ exit`
+```text
+$ exit
 
-`still building...`
+still building...
+```
 
 </div>
