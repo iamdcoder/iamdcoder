@@ -125,7 +125,7 @@ Always learning. Always curious. 🚀
 <pre>PROJECT_01</pre>
 
 <a href="https://github.com/iamdcoder/Hackathon-Recommender">
-<img src="./assets/projects/hackathon.svg" width="100%" alt="Hackathon Recommender System">
+<img src="./assets/projects/hackathon.svg" height="50px" width="100%" alt="Hackathon Recommender System">
 </a>
 
 <br>
