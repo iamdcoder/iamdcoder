@@ -38,7 +38,7 @@ devansh@github:~$ _
 <img src="./assets/portrait_glitch.gif" width="320" alt="Pixel glitch portrait">
 
 <p><i>"Better questions, better answers — a slightly sharper version of me every commit."</i></p>
-<p><sub>✏️ swap this line for your own tagline</sub></p>
+<p><sub>Working hard for a better future</sub></p>
 
 </div>
 
@@ -73,7 +73,7 @@ Always learning. Always curious. 🚀
 📊&nbsp; Focused on ML & Development  
 📖&nbsp; Learning Something New Everyday  
 
-<img src="./assets/system_info.gif" width="100%" alt="Animated terminal system information">
+<img src="./assets/system_info.gif" width="100%" height="150px" alt="Animated terminal system information">
 
 </td>
 
@@ -86,7 +86,7 @@ Always learning. Always curious. 🚀
 🟢&nbsp; Open to collaborations  
 🟢&nbsp; Trying to be a little better every day  
 
-> _Same person. A little more progress each day._
+> _Same person. Same habit. A little more progress each day._
 
 </td>
 
