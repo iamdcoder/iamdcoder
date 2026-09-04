@@ -44,17 +44,17 @@ devansh@github:~$ _
 
 <p>
 <code>LEARNER</code> &nbsp;
+<code>MUSIC ENTHUSIAST</code> &nbsp;
 <code>ALWAYS CURIOUS</code>
 </p>
 
-<p><i>"Better questions, better answers — a slightly sharper version of me every commit."</i></p>
-<p><sub>✏️ edit this line to whatever your own tagline is</sub></p>
+<p><i>"Better questions. Better problems.<br>A slightly better version of me, everyday."</i></p>
 
 </td>
 
 <td width="45%" align="center" valign="middle">
 
-<img src="./assets/portrait_glitch.gif" width="520" alt="Pixel glitch portrait">
+<img src="./assets/portrait_glitch.gif" width="420" alt="Pixel glitch portrait">
 
 </td>
 
@@ -66,6 +66,7 @@ devansh@github:~$ _
 ---
 
 <a id="about"></a>
+
 ## `$ whoami`
 
 <div align="center">
@@ -77,11 +78,22 @@ devansh@github:~$ _
 
 <pre>&gt; about_me()</pre>
 
-I'm a student who enjoys building things, exploring new ideas, and figuring out how stuff works. I'm interested in **Machine Learning**, **Web Development**, and solving real-world problems through code.
+<p>
+I'm a student who enjoys building things, exploring new ideas,
+and figuring out how stuff works.
+</p>
 
-When I'm not on my laptop, you'll probably find me exploring a new idea or going down a random rabbit hole.
+<p>
+I'm interested in <b>Machine Learning</b>, <b>Web Development</b>,
+and solving real-world problems through code.
+</p>
 
-Always learning. Always curious. 🚀
+<p>
+When I'm not coding, you'll probably find me listening to music,
+exploring a new idea, or going down a random rabbit hole.
+</p>
+
+<p><b>Always learning. Always curious.</b></p>
 
 </td>
 
@@ -89,10 +101,24 @@ Always learning. Always curious. 🚀
 
 <pre>&gt; quick_stats()</pre>
 
-🎓&nbsp; Student  
-`</>` &nbsp;Multiple Projects  
-📊&nbsp; Focused on ML & Development  
-📖&nbsp; Learning Something New Everyday  
+<pre>
+ROLE
+
+student
+
+FOCUS
+
+machine learning
+development
+
+STATUS
+
+building
+
+MINDSET
+
+always curious
+</pre>
 
 <img src="./assets/system_info.gif" width="100%" alt="Animated terminal system information">
 
@@ -102,12 +128,18 @@ Always learning. Always curious. 🚀
 
 <pre>&gt; currently()</pre>
 
-🟢&nbsp; Learning and building cool things  
-🟢&nbsp; Exploring new opportunities  
-🟢&nbsp; Open to collaborations  
-🟢&nbsp; Trying to be a little better every day  
+<pre>
+● learning and building
+● exploring opportunities
+● working on new projects
+● improving my skills
+● staying curious
+</pre>
 
-> _Same person. A little more progress each day._
+<blockquote>
+Same person.<br>
+A little more progress each day.
+</blockquote>
 
 </td>
 
@@ -119,21 +151,64 @@ Always learning. Always curious. 🚀
 ---
 
 <a id="skills"></a>
+
 ## `$ cat tech_stack.txt`
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=py,cpp,js,java,react,html,css,git,vscode" alt="Tech stack icons" />
+<td width="50%" valign="top">
 
-<br><br>
+<pre>
+LANGUAGES
+--------------------------------
 
-<sub><b>Languages:</b> Python · C++ · JavaScript · Java &nbsp;|&nbsp; <b>Dev:</b> React · HTML/CSS · Git · VS Code</sub>
+Python        ████████████████████
+C++           ███████████████
+JavaScript    ████████████
+Java          ██████████
+</pre>
 
-</div>
+</td>
+
+<td width="50%" valign="top">
+
+<pre>
+DEVELOPMENT
+--------------------------------
+
+React         ████████████
+HTML / CSS    █████████████
+Git           ████████████████
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<pre>
+INTERESTS
+--------------------------------
+
+Machine Learning
+Data Analysis
+Problem Solving
+Web Development
+</pre>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <a id="projects"></a>
+
 ## `$ ls ./projects`
 
 <div align="center">
@@ -141,57 +216,42 @@ Always learning. Always curious. 🚀
 <table>
 <tr>
 
-<td width="50%" valign="top" align="center">
-
-<pre>PROJECT_01</pre>
+<td width="50%" valign="top">
 
 <a href="https://github.com/iamdcoder/Hackathon-Recommender">
 <img src="./assets/projects/hackathon.svg" width="100%" alt="Hackathon Recommender System">
 </a>
 
-<br>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Recommender System](https://img.shields.io/badge/-Recommender%20System-2ea44f?style=flat-square)
-
 </td>
 
-<td width="50%" valign="top" align="center">
-
-<pre>PROJECT_02</pre>
+<td width="50%" valign="top">
 
 <a href="https://github.com/iamdcoder/KineBurn---The-Yield-Predictor">
 <img src="./assets/projects/kineburn.svg" width="100%" alt="KineBurn - The Yield Predictor">
 </a>
-
-<br>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Physics-Informed ML](https://img.shields.io/badge/-Physics--Informed%20ML-f7931e?style=flat-square)
-
-<sub>🏆 3rd / 385 teams — IIT Kharagpur ChemE Hackathon</sub>
 
 </td>
 
 </tr>
 </table>
 
+<p>
 <sub>More projects on <a href="https://github.com/iamdcoder?tab=repositories">→ view all repositories</a></sub>
+</p>
 
 </div>
 
 ---
 
 <a id="stats"></a>
+
 ## `$ git log --graph` <sub><i># contributions</i></sub>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdcoder&theme=github-dark&hide_border=true" width="95%" alt="GitHub activity graph" />
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/iamdcoder" alt="GitHub contribution graph" />
+<img src="https://ghchart.rshah.org/iamdcoder"
+     width="95%"
+     alt="GitHub contribution graph">
 
 </div>
 
@@ -205,7 +265,9 @@ Always learning. Always curious. 🚀
 05  repeating
 ```
 
-### `$ ./terminal`
+---
+
+## `$ ./terminal`
 
 <div align="center">
 
@@ -231,44 +293,21 @@ devansh@github:~$ _
 ---
 
 <a id="contact"></a>
+
 ## `$ ./contact`
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-📫 <b>Email</b><br>
-<sub>your.email@example.com</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-💼 <b>LinkedIn</b><br>
-<sub>linkedin.com/in/your-handle</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-🐙 <b>GitHub</b><br>
-<sub><a href="https://github.com/iamdcoder">github.com/iamdcoder</a></sub>
-
-</td>
-
-</tr>
-</table>
-
 <pre>
 devansh@github:~$ connect
+
+GITHUB
+github.com/iamdcoder
 
 STATUS
 ONLINE
 
-MODE
+AVAILABILITY
 open to interesting projects
 
 devansh@github:~$ _
@@ -286,6 +325,8 @@ devansh@github:~$ _
 $ exit
 
 thanks for visiting.
+
+let's build something amazing.
 
 still building...
 
