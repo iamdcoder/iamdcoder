@@ -111,7 +111,7 @@ alt="GitHub activity graph"
 <div align="center">
 
 <img
-src="https://ghchart.rshah.org/YOUR_USERNAME"
+src="https://ghchart.rshah.org/iamdcoder"
 alt="GitHub contribution graph"
 />
 
