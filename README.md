@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./assets/portrait_pixel_reveal.gif" width="520" alt="Pixel portrait reveal">
+<img src="./assets/portrait_glitch.gif" width="520" alt="Pixel glitch portrait reveal">
 
 <h1>DEVANSH ARVIND TRIPATHI</h1>
 
