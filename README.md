@@ -97,7 +97,7 @@ alt="KineBurn project"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=iamdcoder&theme=github-dark&hide_border=true"
 width="95%"
 alt="GitHub activity graph"
 />
