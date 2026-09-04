@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150">
+<rect width="1000" height="150" fill="#03070c"/>
+<rect x="18" y="18" width="964" height="114" rx="8" fill="none" stroke="#4b7f91" stroke-width="2"/>
+<circle cx="42" cy="42" r="6" fill="#7cf2bd"/>
+<circle cx="63" cy="42" r="6" fill="#8fc7ff"/>
+<circle cx="84" cy="42" r="6" fill="#788a9c"/>
+<text x="42" y="82" fill="#7cf2bd" font-family="monospace" font-size="22">&gt; devansh@github:~$ ./initialize_profile</text>
+<text x="42" y="112" fill="#b8c8d8" font-family="monospace" font-size="18">identity loaded  //  projects indexed  //  system online</text>
+</svg>

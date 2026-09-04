@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="./assets/terminal_boot.gif" width="760" alt="Terminal boot animation">
+<img src="./assets/terminal_header.svg" width="100%" alt="Terminal profile header">
 
-<br><br>
+<br>
 
 <img src="./assets/portrait_pixel_reveal.gif" width="520" alt="Pixel portrait reveal">
 
 <h1>DEVANSH ARVIND TRIPATHI</h1>
 
 <p>
-  Student &nbsp;•&nbsp; Developer &nbsp;•&nbsp; Problem Solver
+  <code>STUDENT</code> &nbsp; <code>DEVELOPER</code> &nbsp; <code>PROBLEM SOLVER</code>
 </p>
 
 </div>
@@ -20,97 +20,78 @@
 <tr>
 <td width="50%" valign="top">
 
-## `about_me()`
+### `$ whoami`
 
 ```text
-> whoami
-
 Devansh Arvind Tripathi
 
-> role
+student / developer
 
-Student / Developer
+interested in:
+  ├─ machine learning
+  ├─ web development
+  └─ problem solving
+```
 
-> interests
+</td>
+<td width="50%" valign="top">
 
+### `$ system.info`
+
+<img src="./assets/system_info.gif" width="100%" alt="Animated terminal system information">
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat tech_stack.txt`
+
+```text
+LANGUAGES
+Python        ████████████████████
+C++           ███████████████
+JavaScript    ████████████
+Java          ██████████
+
+DEVELOPMENT
+React         ████████████
+HTML/CSS      █████████████
+Git           ████████████████
+
+INTERESTS
 Machine Learning
-Web Development
-Problem Solving
+Data / Problem Solving
+```
 
-> status
+---
 
-Building. Learning. Experimenting.
+## `$ ls ./projects`
 
-</td> <td width="50%" valign="top">
-currently()
-> current_focus
+| Project | Description |
+|---|---|
+| **Reactor Yield Prediction** | Machine-learning project for predicting reactor yield from process parameters. |
+| **KineBurn** | Fitness-focused project centered around workouts and calorie tracking. |
 
-Machine Learning
+---
 
-> working_on
+## `$ git log --oneline`
 
-Personal projects
-Experiments
-New ideas
+```text
+01  building new things
+02  learning something new
+03  breaking something
+04  fixing it
+05  repeating
+```
 
-> learning
+---
 
-Better systems
-Better code
-Better engineering
-
-> mood
-
-██████████████████░░ 90%
-</td> </tr> </table>
-tech_stack()
 <div align="center">
-Languages	Development	Other
-Python	React	Git
-C++	JavaScript	GitHub
-Java	HTML / CSS	VS Code
+
+### `$ exit`
+
+`still building...`
+
 </div>
-git_stats()
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=dark" width="49%" />
-
-</div>
-featured_projects()
-<table> <tr> <td width="50%" valign="top">
-Reactor Yield Prediction
-
-Machine-learning project for predicting reactor yield from process parameters.
-
-Python
-Machine Learning
-Data Analysis
-</td> <td width="50%" valign="top">
-KineBurn
-
-A fitness-focused project built around workouts and calorie tracking.
-
-Development
-UI
-Data
-</td> </tr> </table>
-github_activity()
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"> </div>
-contact()
-> connect_with_me
-
-GitHub      : github.com/YOUR_USERNAME
-LinkedIn    : YOUR_LINKEDIN
-Email       : YOUR_EMAIL
-<div align="center">
-╭────────────────────────────────────────────╮
-│                                            │
-│   "The best way to learn is to build."     │
-│                                            │
-╰────────────────────────────────────────────╯
-
-EOF
-
-</div> ```
