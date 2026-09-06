@@ -35,7 +35,7 @@ devansh@github:~$ _
 
 <br><br>
 
-<img src="./assets/por2.jpg" width="900" alt="Pixel glitch portrait">
+<img src="./assets/por2.jpg" width="100%" alt="Pixel glitch portrait">
 
 <p><i>"Better questions, better answers — a slightly sharper version of me every commit."</i></p>
 <p><sub><i>"Working hard for a better future."</i></sub></p>
